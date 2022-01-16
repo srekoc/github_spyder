@@ -1,0 +1,6 @@
+regex: password']\s*=\s*\'|password\:\s+\'|password']\s*=\s*\"|password\:\s+\"
+language: ruby
+keyword: password
+github_username: sreekanth.kocharlakota@gmail.com
+# Generate via github >> settings >> developer tools >> personal access tokens
+github_apikey: 
